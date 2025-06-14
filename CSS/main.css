@@ -19,7 +19,7 @@ body {
     text-decoration: none;
     font-weight: bold;
     color: black;
-    font-size: 1.8em;
+    font-size: 1em;
 }
 
 .navbar .logo span {
@@ -36,6 +36,8 @@ body {
 }
 
 .mobile-menu {
+    width: 4%;
+    height: auto;
     cursor: pointer;
 }
 
